@@ -1,0 +1,28 @@
+.container1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Nav-container1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: center;
+}
+.image1 {
+  width: 65%;
+  margin-top: 15px;
+}
+.heading1 {
+  font-size: 45px;
+  font-family: 'Roboto';
+  color: black;
+  height: 2px;
+}
+.para {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: black;
+  padding: 5px;
+}
